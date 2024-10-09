@@ -8,6 +8,9 @@ todo ;;
 * bjarne stroustrup patch...
 * Five Below....
 * antididdy
+* HTP
+
+<hr>
 
 - [Gmod SDK (Gaztoof)](https://github.com/Gaztoof/GMod-SDK) (For the Garry's Mod SDK, and reverse engineering reference even though i had to change the sdk a lot)
 - [Gamesneeze (Community)](https://github.com/seksea/gamesneeze/) (For the CMakeProject, toolkit, and reverse engineering reference)
