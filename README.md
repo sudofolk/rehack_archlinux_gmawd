@@ -2,7 +2,9 @@ a lot of this is shit too, it is a reverse engineering project that i've been wo
 
 its a development tool for a cheat that has a few hacks init.
 
-todo ;; render in some external overlay 
+todo ;; 
+render in some external overlay 
+put doctor evil malware in the code (jokezzz)
 
 - [Gmod SDK (Gaztoof)](https://github.com/Gaztoof/GMod-SDK) (For the Garry's Mod SDK, and reverse engineering reference even though i had to change the sdk a lot)
 - [Gamesneeze (Community)](https://github.com/seksea/gamesneeze/) (For the CMakeProject, toolkit, and reverse engineering reference)
