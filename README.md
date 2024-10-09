@@ -1,4 +1,4 @@
-a lot of this is shit too, it is a reverse engineering project that i've been working on for a little while i guess water the implications. Linux gmod cheat chromium x86_64
+a lot of this is shit too, it is a reverse engineering project that i've been working on for a little while i guess water the implications. Linux gmod cheat chromium x86_64, this has a lot of techniques
 
 its a development tool, for a cheat, that has a few hacks innit
 
