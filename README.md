@@ -7,7 +7,7 @@ todo ;;
 * Russian c2........
 * bjarne stroustrup's book
 * Torvalds' secret buffer
-* nuke
+* layup
 * Five Below....
 * antididdy
 * HTP
