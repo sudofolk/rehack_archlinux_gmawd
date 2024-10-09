@@ -1,6 +1,6 @@
 a lot of this is shit too, it is a reverse engineering project that i've been working on for a little while i guess water the implications. Linux gmod cheat chromium x86_64
 
-its a development tool for a cheat that has a few hacks init.
+its a development tool, for a cheat, that has a few hacks init.
 
 todo ;; 
 * render in some external overlay ....
