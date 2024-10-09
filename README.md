@@ -5,8 +5,9 @@ its a development tool for a cheat that has a few hacks init.
 todo ;; 
 * render in some external overlay ....
 * Russian c2........
-* bjarne stroustrup nuke
+* bjarne stroustrup's book
 * Torvalds' secret buffer
+* nuke
 * Five Below....
 * antididdy
 * HTP
