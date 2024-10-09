@@ -11,7 +11,7 @@ void drawPlayer(void* Player, ImDrawList* drawList){
 // OBBMins, Maxs
 // Acquire classnames of objects (predictable + m_nRealClassName) or leverage
 // the lua libraries.
-
+// >class names of objects
 
 static bool getBox(int entityIndex, int& x, int& y, int& x2, int& y2) {
     C_BasePlayer* entity = pInterfaces->pClientEntityList->GetClientEntity(entityIndex);
