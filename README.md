@@ -8,7 +8,7 @@ todo ;;
 * bjarne stroustrup's book
 * Torvalds' secret buffer
 * Five Below....
-* bushisms
+* implement anti dumb
 * HTP
 
 <hr>
