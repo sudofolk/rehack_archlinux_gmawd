@@ -83,6 +83,9 @@ Interfaces::Interfaces(){
 	this->pGameMovement = reinterpret_cast<CGameMovement*>(GetInterface("/home/capias/.local/share/Steam/steamapps/common/GarrysMod/bin/linux64/client_client.so", "GameMovement"));
 	this->pPrediction = reinterpret_cast<CPrediction*>(GetInterface("/home/capias/.local/share/Steam/steamapps/common/GarrysMod/bin/linux64/client_client.so", "VClientPrediction"));
 
+	// all these offsets and pattersns might be fucked up now... should have taught u How to Do it with Screenshots
+	// Hindsight 2020 What Ever
+	
 	uintptr_t HudProcessInput = reinterpret_cast<uintptr_t>(VMT::GetVTable(this->pCHLClient)[10]);
 	uint32_t offset = *reinterpret_cast<uint32_t*>(HudProcessInput + 3); 
 	this->pClientModeShared = **reinterpret_cast<ClientModeShared***>(HudProcessInput + offset + 7);
