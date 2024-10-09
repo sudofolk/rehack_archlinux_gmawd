@@ -169,7 +169,10 @@ void doAimbot(CUserCmd* cmd, C_BaseCombatWeapon* wep){
 
     Vector entPos;
 
-    if(Globals::playerList.find(plyIdx)->second.backtracks.size() > 2){
+
+	// this is all fucked up, i need ot save origin and angles at the time of backtrack logs as well.. that
+	// was wat was rong with it.
+    if(Globals::playerList.find(plyIdx)->second.backtracks.size() > 2){ 
         std::cout << "using backtrack data" << std::endl;
 
         entPos = Globals::playerList[plyIdx].backtracks.at(2).headpos;
