@@ -1,5 +1,5 @@
 a lot of this is shit too, it is a reverse engineering project that i've been working on for a little while i guess water the implications. Linux gmod cheat chromium x86_64, this has a lot of dynamic techniques
-
+i'll start working on it again when i have the ability to dual boot windows and linux.. need a 1TB SSD.
 its a development tool, for a cheat, that has a few hacks innit
 
 todo ;; 
