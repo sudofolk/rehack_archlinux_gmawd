@@ -10,6 +10,7 @@ todo ;;
 * Five Below....
 * implement anti dumb
 * HTP
+* start writing like a C coder and reuse every variable that i can
 
 <hr>
 <h2>Greetz</h2>
