@@ -10,7 +10,7 @@ todo ;;
 * Five Below....
 * implement anti dumb
 * HTP
-* start writing like a C coder and reuse every variable that i can
+* start writing like a C coder and reuse every variable that i can... code as if i'm using commodore hardware?
 
 <hr>
 <h2>Greetz</h2>
